@@ -1,0 +1,78 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+hr{
+    height: 5px;
+}
+img{
+    width: 40%;
+}
+.text{
+    color: blue;
+    text-align: center;
+}
+table{
+    border: 2px solid black;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    border-collapse: collapse;
+}
+table td, th{
+    border: 2px solid black;
+
+}
+.TraditionalCf{
+    text-align: center;
+}
+.vncp{
+    background-color: rgb(238, 130, 238);
+    text-align: left;
+    padding-left: 20px;
+}
+.Hot, .k60, .k38{
+    background-color: rgb(255, 99, 71);
+    text-align: left;
+    padding-left: 20px;
+}
+.Cold, .k28, .k54{
+    background-color: rgb(0, 0, 255);
+    text-align: right;
+    padding-right: 20px;
+}
+.bacXiu{
+    background-color: rgb(0, 128, 0);
+    text-align: right;
+    padding-right: 20px;
+}
+.Expresso{
+    text-align: center;
+}
+.TraditionalEx{
+    text-align: center;
+    background-color: rgb(255, 215, 0);
+}
+.HotOnly{
+    text-align: center;
+    background-color: rgb(255, 165, 0);
+}
+.k40{
+    background-color: rgb(255, 140, 0);
+    text-align: center;
+}
+.k40k{
+    text-align: center;
+    background-color: rgb(165, 42, 42);
+}
+.Machiato{
+    background-color: rgb(238, 130, 238);
+    text-align: left;
+    padding-left: 20px;
+}
+.Cappuchino{
+    background-color: rgb(0, 128, 0);
+    text-align: right;
+    padding-right: 20px;
+}

@@ -1,0 +1,46 @@
+h1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+hr{
+    height: 5px;
+}
+img{
+    width: 40%;
+    border: 10px solid black;
+}
+.text{
+    text-align: center;
+    color: red;
+}
+table{
+    border: 2px solid black;
+    margin: auto;
+    width: 900px;
+    height: 600px;
+}
+table th, table td{
+    border: 2px solid black;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+    padding-left: 20px;
+}
+.right{
+    text-align: right;
+    padding-right: 20px;
+}
+.grennTea{
+    background-image: url(./img/greentea.jpg);
+}
+.blackTea{
+    background-image: url(./img/blacktea.jpg);
+}
+.fruitTea{
+    background-image: url(./img/fruit.jpg);
+}
+
